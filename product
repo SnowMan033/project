@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>AVAILABLE PRODUCTS</p>
+<br>
     <UL> 
         <li>laptops</li>
         <li>cloths</li>
@@ -14,5 +15,8 @@
         <li>vegetables</li>
         <li>electronics</li>
     </UL>
+<br>
+<p>WELCOME TO YOUR TOPN ONLINE SHOP</P>
+<br>
 </body>
 </html>
